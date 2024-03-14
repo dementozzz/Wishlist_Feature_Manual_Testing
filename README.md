@@ -10,3 +10,5 @@ Base on the User Story and have discussion with the team, we collected the idea,
 ![WishlistMap](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing/assets/20464988/6667c147-7280-431e-9835-e4150ba11fc3)
 
 ## Test Case & Assignment
+
+## Bug Report
