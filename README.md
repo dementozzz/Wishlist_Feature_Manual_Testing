@@ -18,7 +18,9 @@ While take some time to learn about how "Wishlist" feature is work, we also put 
 ![WishlistMap](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing/assets/20464988/6667c147-7280-431e-9835-e4150ba11fc3)
 
 ## Test Case
-
+- [Tokopedia](https://www.tokopedia.com/) Website was used to create demo test case
+  
+  - Test Case for checking the Wishlist process. Check the [Google Sheet document here](https://docs.google.com/spreadsheets/d/1Ya98GpNoiG4ZRYKE7iojvog-jKIXLwxxYQkcwRxmZ1A/edit?usp=sharing)
 
 
 ## Bug Report
