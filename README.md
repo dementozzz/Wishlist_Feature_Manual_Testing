@@ -23,3 +23,9 @@ This is test Case for checking the Wishlist process. Check the [Google Sheet doc
 
 
 ## Bug Report
+Although there is no bug found in the test case above, usually if we found some issue while doing testing, we will report it to the developer using jira with the reproduce step, precondition, and provide screenshot. Below is the example we're doing bug reporting using jira.
+
+
+![error1](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing/assets/20464988/e7ec3233-7d8d-4586-8077-13ada39f603c)
+
+![error2](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing/assets/20464988/b22d82c3-7842-4ff6-b9ac-b20dcd067145)
