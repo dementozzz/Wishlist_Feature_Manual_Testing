@@ -1,4 +1,4 @@
-# "Wishlist" feature scenario
+# [Manual Testing] "Wishlist" feature scenario
 [Tokopedia](https://www.tokopedia.com/) is used as an example to create example of my work project.
 
 ## User Story
